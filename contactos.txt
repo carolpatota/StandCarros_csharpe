@@ -1,0 +1,4 @@
+Skoda|Fabia|12-DF-56| 45.676
+Fiat|Uno|43-DM- 0| 12.432
+BMW|M3|31-LN-54| 32.050
+Toyota|Yaris|98-TE-41|132.000

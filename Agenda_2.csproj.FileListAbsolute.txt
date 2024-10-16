@@ -1,0 +1,10 @@
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\bin\Debug\Agenda_2.exe.config
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\bin\Debug\Agenda_2.exe
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\bin\Debug\Agenda_2.pdb
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\obj\Debug\Agenda_2.csproj.AssemblyReference.cache
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\obj\Debug\Agenda_2.Form1.resources
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\obj\Debug\Agenda_2.Properties.Resources.resources
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\obj\Debug\Agenda_2.csproj.GenerateResource.cache
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\obj\Debug\Agenda_2.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\obj\Debug\Agenda_2.exe
+C:\Users\Carolina\source\repos\Agenda_2\Agenda_2\obj\Debug\Agenda_2.pdb
